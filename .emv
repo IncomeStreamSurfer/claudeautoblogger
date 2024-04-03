@@ -1,0 +1,10 @@
+SHOPIFY_STORE_URL=your_myshopfiy_url
+SHOPIFY_ACCESS_TOKEN=your_access_token
+BRAND_NAME=Mitra Science
+KEYWORDS_FILE_PATH=keywords.txt
+SAMPLE_ARTICLE_FILE_PATH=sample_article.txt
+CUSTOM_COLLECTIONS_FILE_PATH=custom_collections.txt
+PAGES_FILE_PATH=pages.txt
+PRODUCTS_FILE_PATH=products.txt
+BLOGS_FILE_PATH=blogs.txt
+ANTHROPIC_API_KEY=your_secret_key
